@@ -1,0 +1,15 @@
+
+
+java:S13197"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ğ„Áß8ˆµ¾ÃÏ1
+‰
+java:S1319="gThe type of "matrice" should be an interface such as "List" rather than the implementation "ArrayList".(º¨åØüÿÿÿÿ8µùÃÏ1
+>
+java:S3010"!Remove this assignment of "json".(¾ã–ã8ô¶ÅÃÏ1
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(™³ê€øÿÿÿÿ8ßŞ¶ÃÏ1
+L	java:S106"+Replace this use of System.out by a logger.(ğÀ»—ûÿÿÿÿ8âŞ¶ÃÏ1
+:
+java:S2119)"Save and re-use this "Random".(“Ç®B8åŞ¶ÃÏ1
+@
+java:S2119-"Save and re-use this "Random".(İÜÇúøÿÿÿÿ8åŞ¶ÃÏ1
+G	java:S1062"+Replace this use of System.out by a logger.(İ·¤¬8æŞ¶ÃÏ1

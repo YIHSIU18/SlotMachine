@@ -1,0 +1,33 @@
+
+F	java:S106#"+Replace this use of System.out by a logger.(ƒúï+8™´èÎÏ1
+G	java:S106$"+Replace this use of System.out by a logger.(÷Ú»Ê8š´èÎÏ1
+F	java:S106%"+Replace this use of System.out by a logger.(ƒúï+8š´èÎÏ1
+L	java:S106&"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8š´èÎÏ1
+L	java:S106)"+Replace this use of System.out by a logger.(Æ¤Öïıÿÿÿÿ8›´èÎÏ1
+L	java:S1064"+Replace this use of System.out by a logger.(Üü‚ùÿÿÿÿ8›´èÎÏ1
+G	java:S106>"+Replace this use of System.out by a logger.(º÷¡Í8œ´èÎÏ1
+G	java:S106G"+Replace this use of System.out by a logger.(ë„š8´èÎÏ1
+G	java:S106O"+Replace this use of System.out by a logger.(÷Ù»¤8´èÎÏ1
+G	java:S106R"+Replace this use of System.out by a logger.(Ëâ’8´èÎÏ1
+G	java:S106`"+Replace this use of System.out by a logger.(È®ûŒ8Ÿ´èÎÏ1
+L	java:S106b"+Replace this use of System.out by a logger.(ÚŒù²ùÿÿÿÿ8Ÿ´èÎÏ1
+G	java:S106e"+Replace this use of System.out by a logger.(Àó½¸8 ´èÎÏ1
+L	java:S106g"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8 ´èÎÏ1
+G	java:S106i"+Replace this use of System.out by a logger.(ÙŒÉ8 ´èÎÏ1
+o
+java:S3776m"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¨Õùü8ÿÑ¦ÏÏ1
+M	java:S106"+Replace this use of System.out by a logger.(÷ƒÖ´úÿÿÿÿ8©´èÎÏ1
+H	java:S106Ÿ"+Replace this use of System.out by a logger.(…ÙĞà8©´èÎÏ1
+H	java:S106 "+Replace this use of System.out by a logger.(ß¾ğÁ8©´èÎÏ1
+M	java:S106¡"+Replace this use of System.out by a logger.(¥Êå³øÿÿÿÿ8©´èÎÏ1
+G	java:S106²"+Replace this use of System.out by a logger.(ì¡¬C8®´èÎÏ1
+H	java:S106µ"+Replace this use of System.err by a logger.(•šú–8®´èÎÏ1
+h
+java:S1128"LRemove this unused import 'com.fasterxml.jackson.databind.util.JSONPObject'.(æïœ8 ÕğÎÏ1
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8¡ÕğÎÏ1
+L
+java:S1128
+"/Remove this unused import 'java.nio.file.Path'.(×²êÂ8¡ÕğÎÏ1
+M
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8¡ÕğÎÏ1
