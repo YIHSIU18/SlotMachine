@@ -61,14 +61,6 @@ public class ColumnsHandler {
         }
     }
 
-    /*public ArrayList<ArrayList<String>> getColumns()
-    {
-        return json;
-    }*/
-
-
-
-
 
 
 }
