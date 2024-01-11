@@ -135,15 +135,26 @@ public class Machine {
 
         // Check for specific symbol wins and add corresponding payouts
         for (int row = 0; row < 3; row++) {
-            int countSeven = 0; // Counter for "7" occurrences in a row
             for (int col = 0; col < 3; col++) {
                 String symbol = matrix[row][col];
-                if (symbol.equals("7")) {
-                    countSeven++;
+                switch (symbol) {
+                    case "7":
+                        winnings += 300;
+                        break;
+                    case "BAR":
+                        winnings += 100;
+                        break;
+                    case "R":
+                    case "P":
+                    case "T":
+                        winnings += 15;
+                        break;
+                    case "C":
+                        winnings += 8;
+                        break;
+                    default:
+                        break;
                 }
-            }
-            if (countSeven == 3) {
-                winnings += 300; // Award 300 jetons for three "7" in a row
             }
         }
 
